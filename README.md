@@ -1,1 +1,1 @@
-"# gnapkin_zuckerborg_layout" 
+"# gnapkin_zuckerborg_layout is just some fixes from Worldspawn00 repository to run the keyboard file in qmk msys, its also a nice layout for having all the features of a 75% keyboard bunkdled into a 36 key space." 
